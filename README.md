@@ -10,7 +10,7 @@ This repository contains hands-on Git and GitHub puzzles for 1st year Computer S
 - Build confidence with debugging Git mistakes
 
 ## How To Use This Repo
-1. Clone the repository.
+1. Clone the repository.()sldjflj
 2. Open the `challenges` folder.
 3. Solve challenges in order (`01` to `08`).
 4. For each challenge:
